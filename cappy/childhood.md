@@ -1,4 +1,7 @@
 ---
+title: Memories of Childhood
+date: 2014-01-12
+slug: memories-of-childhood
 ---
 
 # Memories of Childhood
@@ -17,4 +20,4 @@ In those moments, all of the feelings she would have kept to herself, would end 
 
 How could she even begin to rationalize what just happened? She was clearly at fault. _She_ was clearly the one who started all of it. She could not understand, because afterwards she could think clear as day what she did and said.
 
-This would become a cycle that would plague her for years, even after she moved out, albeit less severely. 
+This would become a cycle that would plague her for years, even after she moved out, albeit less severely.
